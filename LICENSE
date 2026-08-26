@@ -1,0 +1,123 @@
+ミトレル (Meetrail) 公開ページ ライセンス
+Meetrail Public Page License
+
+Copyright (c) 2026 intohay, kk-shinoda. All rights reserved.
+無断複製・転載を禁じます。
+
+本リポジトリは、ミトレル (Meetrail) の開発に参加してくれる人を募集するための
+公開ページです。アプリケーションのソースコードは含まれておらず、また
+オープンソースソフトウェアではありません。
+
+日本語版を正文とし、英語版は参考訳とします。
+The Japanese text is authoritative; the English text is a reference translation.
+
+--------------------------------------------------------------------------------
+1. 権利の帰属
+--------------------------------------------------------------------------------
+
+本リポジトリに含まれる文章、画像 (スクリーンショットを含む)、およびその他一切の
+コンテンツに関する著作権その他の知的財産権は、上記著作権者に帰属します。
+
+--------------------------------------------------------------------------------
+2. 許諾される行為
+--------------------------------------------------------------------------------
+
+  (a) 本リポジトリの内容を閲覧すること
+  (b) 出典を明示したうえで、本リポジトリの記載を引用すること
+      (著作権法第 32 条に定める引用の範囲に限ります)
+
+--------------------------------------------------------------------------------
+3. 禁止される行為
+--------------------------------------------------------------------------------
+
+著作権者の事前の書面 (電子メールを含む) による許諾なく、次の行為を行うことを
+禁止します。営利・非営利を問いません。
+
+  (a) 本リポジトリの内容の全部または実質的な部分を複製・転載すること
+  (b) 本リポジトリの画像を再配布し、または改変すること
+  (c) 本リポジトリの内容を、他のアイドルグループ・アーティスト・イベントを
+      対象とするサービスの資料として利用すること
+
+--------------------------------------------------------------------------------
+4. 商標・名称
+--------------------------------------------------------------------------------
+
+「ミトレル」「Meetrail」の名称、ロゴおよびアイコンは著作権者に帰属します。
+本ライセンスは、これらを使用する権利を一切許諾するものではありません。
+
+--------------------------------------------------------------------------------
+5. アプリケーション本体について
+--------------------------------------------------------------------------------
+
+ミトレルのソースコード、設計資料、データベーススキーマ、デザインアセットは
+非公開であり、独自ライセンス (プロプライエタリ) のもとで管理されています。
+開発に参加した場合、提供された投稿物 (コード・ドキュメントその他の成果物) は、
+著作権者が本ソフトウェアの一部として無償・無期限・地域無制限で利用、複製、改変、
+再許諾および配布できるものとして扱われます。
+
+--------------------------------------------------------------------------------
+6. 無保証および免責
+--------------------------------------------------------------------------------
+
+本リポジトリの内容は現状有姿で提供され、正確性・完全性についていかなる保証も
+伴いません。記載内容は予告なく変更されることがあります。
+
+--------------------------------------------------------------------------------
+7. 準拠法および管轄
+--------------------------------------------------------------------------------
+
+本ライセンスは日本法に準拠し、これに関する一切の紛争については、
+東京地方裁判所を第一審の専属的合意管轄裁判所とします。
+
+--------------------------------------------------------------------------------
+8. お問い合わせ
+--------------------------------------------------------------------------------
+
+  sekainina.project@gmail.com
+
+================================================================================
+English (reference translation)
+================================================================================
+
+This repository is a public page for recruiting contributors to Meetrail. It
+contains no application source code and is NOT open source.
+
+1. OWNERSHIP
+   All copyright and other intellectual property rights in the text, images
+   (including screenshots), and other content in this repository belong to the
+   copyright holders named above.
+
+2. PERMITTED USE
+   You may (a) view the contents of this repository, and (b) quote from it with
+   attribution, within the scope of quotation permitted by the Japanese
+   Copyright Act, Article 32.
+
+3. PROHIBITED USE
+   Without prior written permission (including by email) from the copyright
+   holders, you may not, whether for commercial or non-commercial purposes:
+   (a) reproduce or republish the whole or a substantial part of this
+   repository; (b) redistribute or modify its images; or (c) use its contents as
+   material for a service targeting any other idol group, artist, or event.
+
+4. TRADEMARKS
+   The names, logos, and icons "ミトレル" and "Meetrail" belong to the copyright
+   holders. This license grants no right to use them.
+
+5. THE APPLICATION ITSELF
+   The source code, design documents, database schema, and design assets of
+   Meetrail are private and governed by a proprietary license. If you join the
+   project, materials you contribute are treated as granting the copyright
+   holders a perpetual, worldwide, royalty-free right to use, reproduce, modify,
+   sublicense, and distribute them as part of the software.
+
+6. NO WARRANTY
+   The contents of this repository are provided "as is", without warranty of
+   accuracy or completeness, and may change without notice.
+
+7. GOVERNING LAW
+   This license is governed by the laws of Japan. The Tokyo District Court shall
+   have exclusive jurisdiction as the court of first instance over any dispute
+   arising out of or relating to this license.
+
+8. CONTACT
+   sekainina.project@gmail.com

@@ -156,7 +156,7 @@ AI に書かせて終わりではありません。**「なぜその判断にし
 
 - メール: sekainina.project@gmail.com
 - 問い合わせフォーム: https://sekai-nina.com/contact/
-- X (旧 Twitter): 告知アカウント宛の DM
+- X (旧 Twitter): [@meetrail_app](https://x.com/meetrail_app) (アプリの告知) / [@sekainina314](https://x.com/sekainina314) — DM でも構いません
 
 ---
 

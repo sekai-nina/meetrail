@@ -27,11 +27,11 @@
 
 | ホーム | 日程 | 完売表 |
 |---|---|---|
-| ![ホーム](assets/shots/home.png) | ![日程](assets/shots/plan.png) | ![完売表](assets/shots/popularity.png) |
+| ![ホーム](assets/shots/1.4.0/home.png) | ![日程](assets/shots/1.4.0/plan.png) | ![完売表](assets/shots/1.4.0/popularity.png) |
 
 | 言葉 | 一日のしおり | これまでのミーグリ |
 |---|---|---|
-| ![言葉](assets/shots/report.png) | ![一日のしおり](assets/shots/talk-plan.png) | ![これまでのミーグリ](assets/shots/mypage.png) |
+| ![言葉](assets/shots/1.4.0/report.png) | ![一日のしおり](assets/shots/1.4.0/talk-plan.png) | ![これまでのミーグリ](assets/shots/1.4.0/mypage.png) |
 
 ---
 
